@@ -2,7 +2,6 @@ import React, { useContext ,useRef, useEffect} from 'react'
 import { useHistory } from 'react-router-dom'
 import CartP from '../component/CartP'
 import { DataContext } from '../context/DataContext'
-
 import axios from 'axios'
 const Cart = () => {
    
