@@ -8,7 +8,6 @@ const url = require('url');
 const open = require('openurl');
 const saltRounds = 10;
 const PORT =process.env.PORT || 8000;
-
 const API_KEY = "test_c06b46e28e2a2b035498f4721c5";
 
 const AUTH_KEY = "test_11139217a60baaae7ff95692cea";
