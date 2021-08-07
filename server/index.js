@@ -10,8 +10,8 @@ const saltRounds = 10;
 const PORT =process.env.PORT || 8000;
 
 const API_KEY = "test_******";
-
 const AUTH_KEY = "test_*****";
+
 
 Insta.setKeys(API_KEY, AUTH_KEY);
 
